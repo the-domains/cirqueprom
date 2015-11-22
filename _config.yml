@@ -1,0 +1,28 @@
+name: CirqueProm
+favicon: null
+layout_spectrum: 0.5983124850317836
+typography_spectrum: 0.3122781468555331
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2802550266496837
+  lightness: 0.8097661689389497
+  saturation: 0.9523811808321625
+  rhythmicContrast: 0.22100395057350397
+purpose: []
