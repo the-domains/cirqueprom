@@ -4,8 +4,15 @@
         <description><![CDATA[CirqueProm]]></description>
         <link>https://thegrid.ai/cirqueprom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 03:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2015 03:38:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cirqueprom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Show]]></title>
+            <description><![CDATA[<article><h1>The Show</h1><p>Let mad, master circus performers be your date to Cirque Prom.They won’t stand you up, trash your after-party hotel room or vomit in your car but they might make you pee your pants laughing. Come with a date or go stag.</p></article>]]></description>
+            <link>https://thegrid.ai/cirqueprom/the-show/index.html</link>
+            <guid isPermaLink="false">ceb0e7e6-b803-4851-8fb9-67df0d661b93</guid>
+            <pubDate>Sun, 22 Nov 2015 03:37:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Artists]]></title>
             <description><![CDATA[<article><h1>The Artists</h1><p>A Prom you will never forget.of professional circus artists (Cirque du Soleil, Les 7 doits de la main, Cirque Eloize alums mixed with hot recent circus school grads) will escort you to the Prom you wish you had.The uber talented cast</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/127256483</link>
             <guid isPermaLink="false">5bf71e09-17b4-47ad-9c1d-799e71b5b21d</guid>
             <pubDate>Sun, 22 Nov 2015 02:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cirque Prom]]></title>
-            <description><![CDATA[<article><h1>Cirque Prom</h1><p>Cirque Prom is amazing!</p></article>]]></description>
-            <link>https://thegrid.ai/cirqueprom/cirque-prom/index.html</link>
-            <guid isPermaLink="false">4b173ed4-3bed-4e3b-81bd-d5313011cf6f</guid>
-            <pubDate>Sun, 22 Nov 2015 02:51:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
