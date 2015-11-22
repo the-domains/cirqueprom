@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CirqueProm]]></title>
         <description><![CDATA[CirqueProm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cirqueprom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 02:51:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 02:58:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cirqueprom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cirque PROM Short Trailer]]></title>
+            <description><![CDATA[<article><h1>Cirque PROM Short Trailer</h1><p>www.cirqueprom.com Cirque PROM is a hybrid cabaret-theatrical circus show that takes the audience back to their teenage years, to the graduation ball. This time the underdogs triumph, the wallflowers win, jugglers break hearts and acrobats rule! Irreverent, nostalgic, impressive, and emotionally touching.</p><img src="http://i.vimeocdn.com/video/517975876_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/127256483</link>
+            <guid isPermaLink="false">5bf71e09-17b4-47ad-9c1d-799e71b5b21d</guid>
+            <pubDate>Sun, 22 Nov 2015 02:58:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cirque Prom]]></title>
             <description><![CDATA[<article><h1>Cirque Prom</h1><p>Cirque Prom is amazing!</p></article>]]></description>
-            <link>undefinedcirque-prom/index.html</link>
+            <link>https://thegrid.ai/cirqueprom/cirque-prom/index.html</link>
             <guid isPermaLink="false">4b173ed4-3bed-4e3b-81bd-d5313011cf6f</guid>
             <pubDate>Sun, 22 Nov 2015 02:51:37 GMT</pubDate>
         </item>
