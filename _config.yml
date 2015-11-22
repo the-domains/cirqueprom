@@ -1,6 +1,6 @@
 name: CirqueProm
 favicon: null
-layout_spectrum: 0.24519
+layout_spectrum: 0
 typography_spectrum: 0.49579
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#6e436c'
     - '#f0b2d3'
     - '#007aee'
-  brandStrength: 0.4375
+  brandStrength: 0.375
   lightness: 0.625
   saturation: 0.9523811808321625
   rhythmicContrast: 0.5
